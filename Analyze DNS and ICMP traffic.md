@@ -18,3 +18,45 @@ You are tasked with analyzing the situation and determining which network protoc
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/DNS%20and%20ICMP%20log%202.PNG">
 
 <img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/DNS%20and%20ICMP%20log%203.PNG">
+
+
+<h3> Cybersecurity Incident Report: Network Traffic Analysis</h3>
+
+<h4>I. Summary of the Issue:</h4>
+The UDP protocol reveals that the DNS server is down or unreachable.  As evident by the results of the network analysis, the ICMP echo reply returned the error message "udp port 53 unreachable".  Port 53 is commonly used for DNS protocol traffic.  It is highly likely that the DNS server is possibly in an outage state and therefore not responding.
+
+
+<h4> II.  Analysis and Proposed Solution to Mitigate the Issue </h4>
+
+The incident occurred today at 1:23 p.m.  Customers called the organization to notify the IT team that they received the message "destination port unreachable" when they attempted to visit the website.  The network security team within the organization is currently investigating the issue so customers will be able to access the website again.  In our investigation into the issue, we conducted packet sniffing tests using tcpdump.  In the resulting log file, we found that DNS port 53 was unreachable.  The next step is to identify whether the DNS server is down or traffic to port 53 is blocked by the firewall.  The DNS server might be down due to a successful Denial of Service attack or a misconfiguration.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
