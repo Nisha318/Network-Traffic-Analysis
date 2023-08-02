@@ -1,6 +1,6 @@
 <h3> Capture and Analyze ICMP Data in Wireshark</h3>
 
-<img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/capture%20and%20analyze%20icmp.png>
+<img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/capture%20and%20analyze%20icmp.png">
 
 <p>    
 
