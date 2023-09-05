@@ -12,4 +12,6 @@ Wireshark is a free and open-source packet analyzer. It is used for network trou
 
 <li> <a href="https://github.com/Nisha318/Network-Traffic-Analysis/blob/main/Analyze%20Network%20Attacks%20Wireshark.md#-analyze-network-attacks-using-wireshark-logs-"> Analyze Network Attacks Using Wireshark Logs</a> </li>
 
+<li> <a href="https://github.com/Nisha318/Network-Traffic-Analysis/blob/main/Wireshark%20for%20Basic%20Network%20Security%20Analysis/README.md"> Wireshark for Basic Network Security Analysis </a> </li>
+
 
