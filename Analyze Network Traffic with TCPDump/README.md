@@ -63,7 +63,7 @@ $ sudo tcpdump -#tttt -c 10 443
 
 <img src="/Analyze Network Traffic with TCPDump/shell script 5 run.png">
 
-<img src="Analyze Network Traffic with TCPDump/shell script 6.png">
+<img src="/Analyze Network Traffic with TCPDump/shell script 6.png">
 
 
 
