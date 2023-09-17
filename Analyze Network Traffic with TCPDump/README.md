@@ -1,3 +1,5 @@
+
+
 <h3> TCPDump General Commands </h3>
 
 $ sudo tcpdump
@@ -28,6 +30,49 @@ $ sudo tcpdump -D
 $ sudo tcpdump -I ens5 -c 10
 
 <img src="/Analyze Network Traffic with TCPDump/sudo tcpdump -D interfaces2.png">
+
+
+<h3> Collect Packet Captures in TCPdump using Shell Scripting</h3>
+
+$ sudo tcpdump -#tttt host skyroute66.com -c 10
+
+<img src="/Analyze Network Traffic with TCPDump/skyroute 2.png">
+
+<img src="/Analyze Network Traffic with TCPDump/skyroute 3.png">
+
+$ sudo tcpdump -#xxtttt host skyroute66.com -c 10
+
+<img src="/Analyze Network Traffic with TCPDump/shell script 2.png">
+
+
+
+
+
+
+
+
+
+$ sudo tcpdump -#tttt -c 10 port 443 and host skyroute66.com
+$ sudo tcpdump -#tttt -c 10 port 443 and src skyroute66.com
+
+<img src="/Analyze Network Traffic with TCPDump/skyroute 5.png">
+
+
+$ sudo tcpdump -#tttt -c 10 443
+<img src="/Analyze Network Traffic with TCPDump/shell script 3 -x  executable.png">
+
+<img src="/Analyze Network Traffic with TCPDump/shell script 5 run.png">
+
+<img src="Analyze Network Traffic with TCPDump/shell script 6.png">
+
+
+
+
+
+
+
+
+
 
 
 
