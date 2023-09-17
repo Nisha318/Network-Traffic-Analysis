@@ -10,7 +10,9 @@ You are tasked with analyzing the situation and determining which network protoc
 </p>
 
 
-<img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/DNS%20and%20ICMP%20log.PNG">
+<img src="/assets/images/DNS and ICMP log.PNG">
+
+
 
 
 <strong>Findings: </strong>
