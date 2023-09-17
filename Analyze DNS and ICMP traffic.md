@@ -17,9 +17,9 @@ You are tasked with analyzing the situation and determining which network protoc
 
 <strong>Findings: </strong>
 
-<img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/DNS%20and%20ICMP%20log%202.PNG">
+<img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/DNS%20and%20ICMP%20log%202.PNG">
 
-<img src="https://github.com/Nisha318/Nisha318.github.io/blob/main/images/DNS%20and%20ICMP%20log%203.PNG">
+<img src="https://github.com/Nisha318/Nisha318.github.io/blob/master/assets/images/DNS%20and%20ICMP%20log%203.PNG">
 
 
 <h3> Cybersecurity Incident Report: Network Traffic Analysis</h3>
